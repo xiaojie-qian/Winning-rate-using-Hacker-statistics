@@ -31,7 +31,7 @@ print(np.random.randint(1,7))
 
 # In[7]:
 
-
+# Gernerate a list of random walk
 random_walk=[0]
 for x in range(100):
     step = random_walk[-1]
